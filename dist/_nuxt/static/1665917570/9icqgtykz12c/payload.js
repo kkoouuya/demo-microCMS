@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/9icqgtykz12c", (function(a){return {data:[{id:"9icqgtykz12c",createdAt:"2022-10-16T10:42:46.535Z",updatedAt:a,publishedAt:a,revisedAt:a,title:"test-Netlify",content:"\u003Ch1 id=\"h77ebeed133\"\u003Etest\u003C\u002Fh1\u003E\u003Cp\u003Edeployできたかな\u003C\u002Fp\u003E",category:null}],fetch:{},mutations:void 0}}("2022-10-16T10:42:56.192Z")));
